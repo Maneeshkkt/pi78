@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #713d92;
+    
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    width: 330;
+    border: 0.2px solid rgb(233, 219, 22);
+    border-radius: 5px;
+    height: 200px;
+    
+
+}
+
+.form h3{
+    color: rgb(108, 196, 247);
+}
+p{
+    color: white;
+}
+h2{
+    color: rgb(231, 198, 50);
+}
