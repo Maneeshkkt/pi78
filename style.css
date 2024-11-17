@@ -22,7 +22,7 @@
 }
 
 .form h3{
-    color: rgb(108, 196, 247);
+    color: rgb(216, 231, 240);
 }
 p{
     color: white;
@@ -30,3 +30,35 @@ p{
 h2{
     color: rgb(231, 198, 50);
 }
+
+.form2{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    width: 330;
+    height: 200px;
+}
+
+
+.form3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    width: 330;
+    border: 0.2px solid rgb(155, 155, 152);
+    border-radius: 5px;
+    height: 200px;
+    background-color: aliceblue;
+    
+
+}
+
+.form2 a{
+    color: rgb(157, 227, 255);
+}
+
